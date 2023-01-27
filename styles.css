@@ -62,6 +62,7 @@ body {
     max-width: 1000px;
     max-height: 600px;
     margin-left: -400px;
+    overflow: hidden;
 }
 
 .main-area{
