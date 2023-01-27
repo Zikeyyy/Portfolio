@@ -60,7 +60,7 @@ body {
 .view img{
     flex-grow: 1;
     max-width: 1000px;
-    max-height: 600px;
+    max-height: 900px;
     margin-left: -400px;
     overflow: hidden;
 }
