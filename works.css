@@ -52,3 +52,21 @@ body {
     color: #C38323;
     transition: .3s ease-in;
 }
+.samples img{
+    padding-top: 50px;
+    background-color: inherit;
+
+}
+
+.samples{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+}
+
+.dis{
+    padding-left: 50px;
+    justify-content: flex-start;
+}
